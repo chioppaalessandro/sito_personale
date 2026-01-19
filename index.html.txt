@@ -1,0 +1,68 @@
+
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <title>Sito Web - Progetto GitHub Pages</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            background: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background: #2c3e50;
+            color: white;
+            padding: 40px 20px;
+            text-align: center;
+        }
+        section {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+            background: white;
+        }
+        footer {
+            background: #2c3e50;
+            color: white;
+            text-align: center;
+            padding: 15px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Progetto HTML con GitHub Pages</h1>
+    <p>Sito web realizzato e pubblicato tramite GitHub</p>
+</header>
+
+<section>
+    <h2>Chi sono</h2>
+    <p>
+        Alessandro Chioppa, 4 CI, Righi
+    </p>
+
+    <h2>Scopo del sito:</h2>
+    <ul>
+        <li>Creazione di una pagina HTML</li>
+        <li>Caricamento su repository GitHub</li>
+        <li>Utilizzo del versionamento</li>
+        <li>Pubblicazione con GitHub Pages</li>
+    </ul>
+
+    <h2>Tecnologie utilizzate</h2>
+    <p>
+        HTML5, CSS, GitHub, GitHub Pages
+    </p>
+</section>
+
+<footer>
+    <p>© 2026 - Progetto scolastico</p>
+</footer>
+
+</body>
+</html>
